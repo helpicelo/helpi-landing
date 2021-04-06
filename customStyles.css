@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .primary-color {
     background-color: #F3043B;
 }
